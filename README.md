@@ -1,1 +1,1 @@
-# fastcampus-project-board-admin
+# project-board-admin
