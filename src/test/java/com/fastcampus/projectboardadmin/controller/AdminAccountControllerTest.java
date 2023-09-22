@@ -26,7 +26,7 @@ import static org.springframework.security.test.web.servlet.request.SecurityMock
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
-@DisplayName("View Controller - 어드민 유저")
+@DisplayName("Controller - 어드민 유저")
 @Import(SecurityConfig.class)
 @WebMvcTest(AdminAccountController.class)
 class AdminAccountControllerTest {
