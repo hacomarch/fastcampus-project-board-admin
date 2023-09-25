@@ -4,6 +4,10 @@
 
 게시판 서비스의 관리 도구를 개발해보는 프로젝트입니다. 
 
+## 개발 과정
+
+Pull requests -> closed
+
 ## 개발 환경
 
 * Intellij IDEA Ultimate 2022.2.1 ~ 2022.3.3
